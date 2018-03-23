@@ -15,16 +15,16 @@ a:hover{color:#073863;text-decoration:none;}
         display: none;
     }
 }
-@font-face{font-family:"FSReg";src:url(FiraSans-Regular.ttf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"M300";src:url(MuseoSansCyrl_0.otf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"M100";src:url(MuseoSansCyrl.otf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"M700";src:url(MuseoSansCyrl_2.otf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"RB";src:url(Raleway-Bold.ttf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"FSSemi";src:url(FiraSans-SemiBold.ttf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"FSLight";src:url(FiraSans-Light.ttf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"FSMed";src:url(FiraSans-Medium.ttf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"FSIt";src:url(FiraSans-Italic.ttf);font-weight:normal;font-style:normal;}
-@font-face{font-family:"FSB";src:url(FiraSans-Bold.ttf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"FSReg";src:url(firasans-regular.ttf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"M300";src:url(museosanscyrl_0.otf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"M100";src:url(museosanscyrl.otf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"M700";src:url(museosanscyrl_2.otf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"RB";src:url(raleway-bold.ttf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"FSSemi";src:url(firasans-semibold.ttf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"FSLight";src:url(firasans-light.ttf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"FSMed";src:url(firasans-medium.ttf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"FSIt";src:url(firasans-italic.ttf);font-weight:normal;font-style:normal;}
+@font-face{font-family:"FSB";src:url(firasans-bold.ttf);font-weight:normal;font-style:normal;}
 #tiz-home{background:url(bg2.jpg);-webkit-background-size:cover;background-size:cover;width:100%;height:600px;transition:all .3s linear;position:relative;}
 .bg1, .bg2, .bg3, .bg4, .bg0{background-image:url(bg1.jpg);position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;pointer-events:none;opacity:0.0;z-index:-1;}
 .bg2{background-image:url(bg2.jpg);}
